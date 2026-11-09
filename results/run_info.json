@@ -1,0 +1,43 @@
+{
+  "data": "features_1or2_stable.pkl",
+  "rows": {
+    "train": 3078,
+    "validation": 1026,
+    "test": 1027
+  },
+  "features": 141,
+  "split_seed": 0,
+  "correlation_threshold": 0.85,
+  "final_model": {
+    "width": 256,
+    "depth": 4,
+    "dropout": 0.1,
+    "lr": 0.001,
+    "batch_size": 256
+  },
+  "ensemble_seeds": [
+    0,
+    11,
+    22,
+    33,
+    44,
+    55,
+    66,
+    77,
+    88,
+    99
+  ],
+  "max_epochs": 500,
+  "early_stopping_patience": 50,
+  "torch_threads": 1,
+  "scans": true,
+  "validation_uncertainty_spearman": 0.6585783169777581,
+  "versions": {
+    "python": "3.10.21",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.15.2",
+    "scikit-learn": "1.7.2",
+    "pytorch": "2.13.0"
+  }
+}

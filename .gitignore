@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+.venv/
+*.pt
+*.pth
+
+# Track the course feature cache in the private repository.
+data/*
+!data/features_1or2_stable.pkl
