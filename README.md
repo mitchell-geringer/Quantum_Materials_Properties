@@ -2,7 +2,7 @@
 
 AI SCI 290A · Project 1 · Mitchell Geringer
 
-**Video** · [5-minute summary](https://docs.google.com/videos/d/1bAs50yc4pxecqka86IT5R-gKq5YOgES2DJNAnY_w8Eo/edit?usp=sharing) (placeholder)
+**Video** · [5-minute summary](https://docs.google.com/videos/d/1bAs50yc4pxecqka86IT5R-gKq5YOgES2DJNAnY_w8Eo/edit?usp=sharing)
 
 ## Research question
 
